@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "8bdc6556d8768521",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a325da4c75841f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e24e36d91e5a0a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "introduction/Bases de datos NoSQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30739870ee014fe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "68da4ea25cea6293",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47680d9f324aba62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bbcc7f665d92957",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efda1b0db763bced",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30c88596b39be773",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb2e40c8a54224e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bf981e0d8b57c3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "introduction/Bases de datos NoSQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb594095a0ca1d43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "introduction/Bases de datos NoSQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "754841488552cb5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd55d43d2891a488",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "introduction/Bases de datos NoSQL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7e24e36d91e5a0a2",
+  "lastOpenFiles": [
+    "README.md",
+    "introduction/Bases de datos NoSQL.md",
+    "introduction"
+  ]
+}
